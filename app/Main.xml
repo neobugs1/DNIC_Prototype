@@ -1,0 +1,139 @@
+﻿<project version="2.9" name="Project" ID="B20AB76E-B309-4AE6-96E9-9958679BE1D2">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtDesktop" pageSize="(1920,1080)" backgroundColor="4294967295" fontSize="12" fontFamily="Segoe UI" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Login" ID="D9B50897-D00D-4C59-8AD4-3BC2491D071E" expanded="True" code="g3rMtV7kUr" thumbCode="g3rMtV7kUr" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+      </images>
+    </page>
+    <page name="Home" ID="DD15667D-F578-4164-B09A-E4F68C3AE0B0" expanded="True" code="M8bUSNI5O3" thumbCode="Blm2kOTDXs" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+        <image key="B5444625A8FFA1FB9B0B2DFD0F176A71.png"/>
+        <image key="2E154F7EA6A3F07ABAAB2BDEE5A4CF83.png"/>
+        <image key="B5262111FDCF61006F3AE29A20B31320.jpg"/>
+      </images>
+    </page>
+    <page name="Profile" ID="801497A4-FDC3-43C9-A530-6963AA01E4FB" expanded="True" code="ec9a8piURn" thumbCode="ec9a8piURn" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B5262111FDCF61006F3AE29A20B31320.jpg"/>
+        <image key="B5444625A8FFA1FB9B0B2DFD0F176A71.png"/>
+        <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+      </images>
+    </page>
+    <page name="Courses" ID="E607C53E-AE98-4034-8537-E63F332218F9" expanded="True" code="X6EkQSTW1y" thumbCode="El8mUv8Rgz" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B5262111FDCF61006F3AE29A20B31320.jpg"/>
+        <image key="B5444625A8FFA1FB9B0B2DFD0F176A71.png"/>
+        <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+      </images>
+    </page>
+    <page name="ApeCoin Futures" ID="24611FF3-AD0D-4192-A844-A58F95AA3808" expanded="True" code="YRytqb5HWQ" thumbCode="iOLaGbAndT" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+        <image key="386EDC83B8B1C254B311AE9EE006646B.png"/>
+        <image key="B5444625A8FFA1FB9B0B2DFD0F176A71.png"/>
+        <image key="B5262111FDCF61006F3AE29A20B31320.jpg"/>
+      </images>
+    </page>
+    <page name="Swiss National" ID="05B4D03B-5CDB-489D-96AF-0C62D8E3728E" expanded="True" code="Frr83Pn9Ng" thumbCode="5RqiyhxGg1" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+        <image key="B5444625A8FFA1FB9B0B2DFD0F176A71.png"/>
+        <image key="B5262111FDCF61006F3AE29A20B31320.jpg"/>
+        <image key="991A607E0C8A509D32E4A217D39CF4BB.png"/>
+      </images>
+    </page>
+    <page name="Cracking" ID="09B867AD-8FC7-44DD-ADD0-B07DA24A9A87" expanded="True" code="hEj5hXv3S2" thumbCode="yP28JfXIab" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+        <image key="B5444625A8FFA1FB9B0B2DFD0F176A71.png"/>
+        <image key="FF726BFAC9400C8A8A5CA3900BAF68F2.png"/>
+        <image key="B5262111FDCF61006F3AE29A20B31320.jpg"/>
+      </images>
+    </page>
+    <page name="Nexo Token" ID="3949D9E9-A544-45F2-8DDD-BCB441A9BAB4" expanded="True" code="nb2FJZF2rN" thumbCode="nb2FJZF2rN" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+        <image key="B5444625A8FFA1FB9B0B2DFD0F176A71.png"/>
+        <image key="B5262111FDCF61006F3AE29A20B31320.jpg"/>
+        <image key="5C2465F475E009F8E2C5B6D4E87A88FE.png"/>
+      </images>
+    </page>
+    <page name="Goldman Sachs Makes" ID="312FE25A-509D-4480-AFB7-65C41F710D60" expanded="True" code="V335HVhx1V" thumbCode="Q99OD5MEkx" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+        <image key="B5444625A8FFA1FB9B0B2DFD0F176A71.png"/>
+        <image key="B5262111FDCF61006F3AE29A20B31320.jpg"/>
+        <image key="CC28370E9E6733817BF158978546959B.png"/>
+      </images>
+    </page>
+    <page name="How to spend" ID="7C5F2EE7-736D-410A-9DCA-E66EF37C562C" expanded="True" code="v5GGTryRCL" thumbCode="feXbHoPBv4" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+        <image key="B5444625A8FFA1FB9B0B2DFD0F176A71.png"/>
+        <image key="4AFD401A665CC42B50A9F95A4F215D4F.png"/>
+        <image key="B5262111FDCF61006F3AE29A20B31320.jpg"/>
+      </images>
+    </page>
+    <page name="A brief overview" ID="FAD1B585-30E2-4B4B-AD93-6C1EFF35203C" expanded="True" code="rbr4BiJ6DL" thumbCode="rbr4BiJ6DL" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+        <image key="B5444625A8FFA1FB9B0B2DFD0F176A71.png"/>
+        <image key="B5262111FDCF61006F3AE29A20B31320.jpg"/>
+        <image key="4EC15E99E29EAECCBBCC2973BABFFB8E.png"/>
+      </images>
+    </page>
+    <page name="The Crypto Company" ID="5C92024A-5312-4579-AEF5-AA516B317194" expanded="True" code="ml8xnwpW7X" thumbCode="ml8xnwpW7X" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+        <image key="B5444625A8FFA1FB9B0B2DFD0F176A71.png"/>
+        <image key="5BA593475A935D8E8C013E57C7DE4667.png"/>
+        <image key="B5262111FDCF61006F3AE29A20B31320.jpg"/>
+      </images>
+    </page>
+    <page name="Test" ID="901872BE-ABD1-4E3E-A86A-5B17FBFFAAC4" expanded="True" code="qHDUQgGoF6" thumbCode="qHDUQgGoF6" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="88224FB92E52A59EEBB3C9477E457B90.png"/>
+        <image key="B5444625A8FFA1FB9B0B2DFD0F176A71.png"/>
+        <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+        <image key="B5262111FDCF61006F3AE29A20B31320.jpg"/>
+      </images>
+    </page>
+    <page name="Register" ID="1922D841-7BA8-42E0-ABF3-8A43F75ECABC" expanded="True" code="qWQk8astD4" thumbCode="qWQk8astD4" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="WW1" ID="C3EE83AE-880E-4F00-8F22-D225F99F1D94" expanded="False" code="PlXFTbzjdN" thumbCode="JzgUx3utMS" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="88224FB92E52A59EEBB3C9477E457B90.png"/>
+        <image key="B5262111FDCF61006F3AE29A20B31320.jpg"/>
+      </images>
+    </page>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="D648F122E98A4063A6FA99BD6DDE48E2.png"/>
+    <image key="2E154F7EA6A3F07ABAAB2BDEE5A4CF83.png"/>
+    <image key="B5262111FDCF61006F3AE29A20B31320.jpg"/>
+    <image key="4EC15E99E29EAECCBBCC2973BABFFB8E.png"/>
+    <image key="991A607E0C8A509D32E4A217D39CF4BB.png"/>
+    <image key="386EDC83B8B1C254B311AE9EE006646B.png"/>
+    <image key="5C2465F475E009F8E2C5B6D4E87A88FE.png"/>
+    <image key="88224FB92E52A59EEBB3C9477E457B90.png"/>
+    <image key="4AFD401A665CC42B50A9F95A4F215D4F.png"/>
+    <image key="CC28370E9E6733817BF158978546959B.png"/>
+    <image key="5BA593475A935D8E8C013E57C7DE4667.png"/>
+    <image key="B5444625A8FFA1FB9B0B2DFD0F176A71.png"/>
+    <image key="FF726BFAC9400C8A8A5CA3900BAF68F2.png"/>
+  </images>
+</project>

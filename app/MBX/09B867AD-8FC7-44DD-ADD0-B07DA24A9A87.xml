@@ -1,0 +1,156 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="09B867AD-8FC7-44DD-ADD0-B07DA24A9A87" platform="MtDesktop" defaultW="1920" defaultH="1080" measureW="1920" measureH="1080" mobileScreenScale="0">
+  <controls controlCount="14">
+    <control controlID="4B419EB6-81A6-48B1-8082-5C21FFD3D884" controlTypeID="List" x="71" y="206" w="168" h="252" zOrder="0">
+      <verticalScrollbarShow>True</verticalScrollbarShow>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="24611FF3-AD0D-4192-A844-A58F95AA3808" linkType="ltPageLink" isApplyIncludePage="False" title="ApeCoin+Futures+See+$36M+in+Liquidations+After+Volatile+Trading">
+          <area shape="0" alt="" ID="{4DB4179F-AB37-418D-B063-C666801FD12A}" coords="(1,1,167,26)"/>
+        </link>
+        <link targetPageID="05B4D03B-5CDB-489D-96AF-0C62D8E3728E" linkType="ltPageLink" isApplyIncludePage="False" title="Swiss+National+Bank+Owns+No+Bitcoin%2C+but+Could+Buy+in+the+Future%2C+Chairman+Says">
+          <area shape="0" alt="" ID="{C9B9B002-4E05-4542-82A4-C0A92260F5E3}" coords="(1,26,167,51)"/>
+        </link>
+        <link targetPageID="09B867AD-8FC7-44DD-ADD0-B07DA24A9A87" linkType="ltPageLink" isApplyIncludePage="False" title="Cracking+the+Notification+Conundrum+in+Web+3+Apps">
+          <area shape="0" alt="" ID="{BEEF219D-4720-4876-8FD4-689365684BAF}" coords="(1,51,167,76)"/>
+        </link>
+        <link targetPageID="3949D9E9-A544-45F2-8DDD-BCB441A9BAB4" linkType="ltPageLink" isApplyIncludePage="False" title="Nexo+Token+Enjoys+Short-Lived+Rally+Upon+Binance+Listing">
+          <area shape="0" alt="" ID="{1026831E-E910-4692-BE92-3C50CD931924}" coords="(1,76,167,101)"/>
+        </link>
+        <link targetPageID="312FE25A-509D-4480-AFB7-65C41F710D60" linkType="ltPageLink" isApplyIncludePage="False" title="Goldman+Sachs+Makes+Its+First+Bitcoin-Backed+Loan">
+          <area shape="0" alt="" ID="{5015D072-0B6E-4D01-879C-783972853367}" coords="(1,101,167,126)"/>
+        </link>
+        <link targetPageID="7C5F2EE7-736D-410A-9DCA-E66EF37C562C" linkType="ltPageLink" isApplyIncludePage="False" title="How+to+Spend+Your+Crypto+Using+Bitrefill%E2%80%99s+Gift+Card+Platform">
+          <area shape="0" alt="" ID="{31D241D9-F16A-4828-B6A8-A8D878187D3E}" coords="(1,126,167,151)"/>
+        </link>
+        <link targetPageID="FAD1B585-30E2-4B4B-AD93-6C1EFF35203C" linkType="ltPageLink" isApplyIncludePage="False" title="A+Brief+Overview+of+Crypto+Payments+in+5+Charts">
+          <area shape="0" alt="" ID="{B45B9009-CFD6-4A6C-95D3-2D6AEB5BCCAF}" coords="(1,151,167,176)"/>
+        </link>
+        <link targetPageID="5C92024A-5312-4579-AEF5-AA516B317194" linkType="ltPageLink" isApplyIncludePage="False" title="The+Crypto+Company+Aiding+El+Salvador%E2%80%99s+Bitcoin+Adoption">
+          <area shape="0" alt="" ID="{F3E5965D-23EF-48AF-9CFD-1F31F4077158}" coords="(1,176,167,201)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>ApeCoin+Futures+See+$36M+in+Liquidations+After+Volatile+Trading%0D%0ASwiss+National+Bank+Owns+No+Bitcoin%2C+but+Could+Buy+in+the+Future%2C+Chairman+Says%0D%0ACracking+the+Notification+Conundrum+in+Web+3+Apps%0D%0ANexo+Token+Enjoys+Short-Lived+Rally+Upon+Binance+Listing%0D%0AGoldman+Sachs+Makes+Its+First+Bitcoin-Backed+Loan%0D%0AHow+to+Spend+Your+Crypto+Using+Bitrefill%E2%80%99s+Gift+Card+Platform%0D%0AA+Brief+Overview+of+Crypto+Payments+in+5+Charts%0D%0AThe+Crypto+Company+Aiding+El+Salvador%E2%80%99s+Bitcoin+Adoption%0D%0A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>2</selectedIndex>
+      <selectedColor>4294927872</selectedColor>
+    </control>
+    <control controlID="3A74D60A-4472-4970-AFE7-3208EDFF5806" controlTypeID="MenuBar" x="384" y="52" w="282" h="48" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DD15667D-F578-4164-B09A-E4F68C3AE0B0" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{C664EFFC-03AD-4CE0-8399-A0DD29FBC158}" coords="(0,0,63,48)"/>
+        </link>
+        <link targetPageID="801497A4-FDC3-43C9-A530-6963AA01E4FB" linkType="ltPageLink" isApplyIncludePage="False" title="+Profile">
+          <area shape="0" alt="" ID="{2592FD68-F7E1-45DC-A118-B906D4C73F67}" coords="(63,0,131,48)"/>
+        </link>
+        <link targetPageID="E607C53E-AE98-4034-8537-E63F332218F9" linkType="ltPageLink" isApplyIncludePage="False" title="+Courses">
+          <area shape="0" alt="" ID="{10F3683A-34F9-41E4-980D-5B4D9020304D}" coords="(131,0,207,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home%2C+Profile%2C+Courses</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>2</selectedIndex>
+      <selectedColor>4294927872</selectedColor>
+    </control>
+    <control controlID="90BF8448-87DD-4A45-A005-07ABA5953C3B" controlTypeID="TextArea" x="288" y="210" w="798" h="66" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Cracking+the+Notification+Conundrum+in+Web+3+Apps</text>
+      <textSize>28</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D4D34803-129F-4918-B5BE-CDB13905D813" controlTypeID="Image" x="1844" y="10" w="66" h="56" zOrder="3">
+      <clipShapeType>SbEllipse</clipShapeType>
+      <URL>B5262111FDCF61006F3AE29A20B31320.jpg</URL>
+    </control>
+    <control controlID="EE37F533-B9D5-4496-8DCC-B44CE620C92F" controlTypeID="Label" x="1850" y="76" w="52" h="16" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Welcome%2C</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AF096873-D6BA-4C41-AA1D-4489C56F7277" controlTypeID="Label" x="1852" y="92" w="50" h="16" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>John+Doe</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="70843BF4-6B4D-47EA-8BAD-D021C31B1ECA" controlTypeID="Label" x="1852" y="118" w="44" h="16" zOrder="6">
+      <color>13382502</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D9B50897-D00D-4C59-8AD4-3BC2491D071E" linkType="ltPageLink" isApplyIncludePage="False" title="Login">
+          <area shape="0" alt="" ID="{D168A615-D852-44DD-A179-65EB313756E0}" coords="(0,0,44,16)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Sign+out</text>
+      <textColor>4278216447</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F87839B2-8F59-46A4-98DD-E80FB4090E69" controlTypeID="VideoPlayer" x="288" y="875" w="313" h="195" zOrder="7"/>
+    <control controlID="715267DE-F9F1-49F1-869A-6D0520BA2BCC" controlTypeID="TextArea" x="288" y="256" w="704" h="609" zOrder="8">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Ping!+You%E2%80%99ve+got+mail.+This+is+one+of+the+oldest+memes+of+the+internet+age.+The+little+icon+in+the+corner+of+our+screens%2C+the+talking+paper+clip%2C+the+familiar+buzz+of+the+phone+in+our+pockets.+We+take+real-time+alerts+and+notifications+for+granted.+They+are+hard-wired+into+our+everyday+lives.+And+when+an+app+does+not+provide+notifications+and+alerts%2C+it+feels+outdated.%0D%0A%0D%0ABut+in+the+most+modern+iteration+of+the+internet+%E2%80%93+Web+3+and+blockchains+%E2%80%93+these+notifications+are+conspicuous+by+their+absence.+The+reason+for+this+is+largely+technical.+Push+notifications+are+difficult+to+implement+on+the+vast+majority+of+blockchains+and+appear+on+almost+no+Web+3+apps.+Some+do+exist+for+Ethereum+as+separate+apps+such+as+EPNS+and+Anyblock.+But+these+are+separate+services%2C+not+available+as+built-in+features+to+other+apps+and+not+available+as+developer+tools.%0D%0A%0D%0ASome+blockchain+development+platforms+do+allow+users+to+set+up+webhooks+for+Ethereum.+But+these+are+very+complicated+to+implement%2C+and+users+must+set+up+multiple+alerts+for+every+event+they+would+like+to+monitor.+For+most+other+blockchains%2C+they%E2%80%99re+virtually+non-existent+because+they%E2%80%99re+so+difficult+to+implement+for+most+developers.+It+would+take+days+or+weeks+of+development+time+to+set+up+alerts+for+just+one+additional+blockchain.+In+crypto+time%2C+this+is+just+not+feasible.%0D%0A%0D%0ALooked+at+another+way%2C+notifications+are+the+ultimate+expression+of+the+centralized+internet.+Vast+platforms+monitor+everything+going+on+and+send+out+little+messages+to+let+their+users+know+what%E2%80%99s+happening+with+their+own+accounts.+For+this+to+be+transposed+over+to+the+decentralized+internet+of+Web+3+is+not+just+a+technical+challenge+%E2%80%93+it+also+requires+a+change+of+mindset.</text>
+      <textSize>18</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4F1B8BD3-3DAB-49DC-B9F9-FBD3535DE170" controlTypeID="Image" x="-2" y="144" w="1922" h="56" zOrder="9">
+      <URL>B5444625A8FFA1FB9B0B2DFD0F176A71.png</URL>
+    </control>
+    <control controlID="F71CD269-97C4-48BC-A12F-E82FF74DAA92" controlTypeID="Image" x="42" y="20" w="152" h="114" zOrder="10">
+      <URL>D648F122E98A4063A6FA99BD6DDE48E2.png</URL>
+    </control>
+    <control controlID="68E2A7AA-FD54-4779-9BA7-BD5A7F55BCB1" controlTypeID="Image" x="1002" y="250" w="773" h="580" zOrder="11">
+      <URL>FF726BFAC9400C8A8A5CA3900BAF68F2.png</URL>
+    </control>
+    <control controlID="A406C311-CD87-4ACD-8A81-F9F2AAC6465B" controlTypeID="Button" x="1697" y="1042" w="208" h="28" zOrder="12">
+      <states>
+        <state propName="Color" stateType="state_mouseOver" isChecked="True" value="4278190080" varType="20"/>
+      </states>
+      <color>4294927872</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="901872BE-ABD1-4E3E-A86A-5B17FBFFAAC4" linkType="ltPageLink" isApplyIncludePage="False" title="Test">
+          <area shape="0" alt="" ID="{2B897855-18A1-455F-BB61-FC9C0028F534}" coords="(0,0,208,28)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Take+the+Test!!</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="51621390-9047-457C-A7CB-019A94B81807" controlTypeID="BreadCrumbs" x="10" y="1054" w="166" h="16" zOrder="13">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DD15667D-F578-4164-B09A-E4F68C3AE0B0" linkType="ltPageLink" isApplyIncludePage="False" title="CryptoUni">
+          <area shape="0" alt="" ID="{880E4E60-B980-4ACF-9E55-F3D54A9F8A54}" coords="(0,0,54,16)"/>
+        </link>
+        <link targetPageID="E607C53E-AE98-4034-8537-E63F332218F9" linkType="ltPageLink" isApplyIncludePage="False" title="Courses">
+          <area shape="0" alt="" ID="{FB3F4EF5-10C1-43D8-87D0-3A3762F01F0F}" coords="(66,0,108,16)"/>
+        </link>
+        <link targetPageID="3949D9E9-A544-45F2-8DDD-BCB441A9BAB4" linkType="ltPageLink" isApplyIncludePage="False" title="Cracking">
+          <area shape="0" alt="" ID="{71E02B17-7523-470A-A588-02B1709E752F}" coords="(120,0,166,16)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>CryptoUni%2CCourses%2CCracking</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>12</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

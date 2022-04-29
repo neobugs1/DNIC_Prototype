@@ -1,0 +1,184 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="E607C53E-AE98-4034-8537-E63F332218F9" platform="MtDesktop" defaultW="1920" defaultH="1080" measureW="1920" measureH="1080" mobileScreenScale="0">
+  <controls controlCount="17">
+    <control controlID="C0AD2EDD-B3D0-49E9-B683-9016EFBCC2C1" controlTypeID="MenuBar" x="384" y="52" w="282" h="48" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DD15667D-F578-4164-B09A-E4F68C3AE0B0" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{C664EFFC-03AD-4CE0-8399-A0DD29FBC158}" coords="(0,0,63,48)"/>
+        </link>
+        <link targetPageID="801497A4-FDC3-43C9-A530-6963AA01E4FB" linkType="ltPageLink" isApplyIncludePage="False" title="+Profile">
+          <area shape="0" alt="" ID="{2592FD68-F7E1-45DC-A118-B906D4C73F67}" coords="(63,0,131,48)"/>
+        </link>
+        <link targetPageID="E607C53E-AE98-4034-8537-E63F332218F9" linkType="ltPageLink" isApplyIncludePage="False" title="+Courses">
+          <area shape="0" alt="" ID="{10F3683A-34F9-41E4-980D-5B4D9020304D}" coords="(131,0,207,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home%2C+Profile%2C+Courses</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>2</selectedIndex>
+      <selectedColor>4294927872</selectedColor>
+    </control>
+    <control controlID="EE4EA52B-AAEA-4CB8-95D4-15DBEF8108A3" controlTypeID="Image" x="1834" y="10" w="66" h="66" zOrder="1">
+      <clipShapeType>SbEllipse</clipShapeType>
+      <URL>B5262111FDCF61006F3AE29A20B31320.jpg</URL>
+    </control>
+    <control controlID="F25277FB-1B48-479F-8DC8-9F96D5C36F71" controlTypeID="Label" x="1840" y="76" w="52" h="16" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Welcome%2C</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2E3BE7EF-DDF5-411E-8106-DE497D15261B" controlTypeID="Label" x="1842" y="92" w="50" h="16" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>John+Doe</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="19F50CE4-BF89-4EDE-8229-207590213129" controlTypeID="TextArea" x="298" y="153" w="429" h="66" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Select+any+of+the+courses+below%3A</text>
+      <textSize>28</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3E532BB5-519B-4E64-944B-0B420C4ECB8C" controlTypeID="Label" x="1842" y="118" w="44" h="16" zOrder="5">
+      <color>13382502</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D9B50897-D00D-4C59-8AD4-3BC2491D071E" linkType="ltPageLink" isApplyIncludePage="False" title="Login">
+          <area shape="0" alt="" ID="{D168A615-D852-44DD-A179-65EB313756E0}" coords="(0,0,44,16)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Sign+out</text>
+      <textColor>4278216447</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C51919E2-B0A3-444C-9A9D-086E1FB75944" controlTypeID="BreadCrumbs" x="10" y="1054" w="108" h="16" zOrder="6">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DD15667D-F578-4164-B09A-E4F68C3AE0B0" linkType="ltPageLink" isApplyIncludePage="False" title="CryptoUni">
+          <area shape="0" alt="" ID="{880E4E60-B980-4ACF-9E55-F3D54A9F8A54}" coords="(0,0,54,16)"/>
+        </link>
+        <link targetPageID="E607C53E-AE98-4034-8537-E63F332218F9" linkType="ltPageLink" isApplyIncludePage="False" title="Courses">
+          <area shape="0" alt="" ID="{FB3F4EF5-10C1-43D8-87D0-3A3762F01F0F}" coords="(66,0,108,16)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>CryptoUni%2CCourses</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="28D686C7-3297-42FC-B733-E41B71FF77E1" controlTypeID="TextArea" x="298" y="219" w="619" h="66" zOrder="7">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="24611FF3-AD0D-4192-A844-A58F95AA3808" linkType="ltPageLink" isApplyIncludePage="False" title="WW1">
+          <area shape="0" alt="" ID="{0045986D-2E6F-41BD-B798-C5031934F24B}" coords="(0,0,619,66)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>ApeCoin+Futures+See+$36M+in+Liquidations+After+Volatile+Trading%0D%0A</text>
+      <textSize>18</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="30F5D401-E953-424A-B8EE-99C38887313F" controlTypeID="TextArea" x="298" y="257" w="1044" h="66" zOrder="8">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="05B4D03B-5CDB-489D-96AF-0C62D8E3728E" linkType="ltPageLink" isApplyIncludePage="False" title="WW2">
+          <area shape="0" alt="" ID="{74289F0C-745F-4642-8DC6-08D7EA84FEF5}" coords="(0,0,1044,66)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Swiss+National+Bank+Owns+No+Bitcoin%2C+but+Could+Buy+in+the+Future%2C+Chairman+Says%0D%0A</text>
+      <textSize>18</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0C761931-AE40-4082-84E6-2926BBBCB21D" controlTypeID="TextArea" x="298" y="295" w="1399" h="66" zOrder="9">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="09B867AD-8FC7-44DD-ADD0-B07DA24A9A87" linkType="ltPageLink" isApplyIncludePage="False" title="The+Cold+War">
+          <area shape="0" alt="" ID="{BC303201-EB37-450B-9B46-E027C37154A5}" coords="(0,0,1399,66)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Cracking+the+Notification+Conundrum+in+Web+3+Apps%0D%0A</text>
+      <textSize>18</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3ECAFD14-F69A-48BA-9292-7F5B3460260E" controlTypeID="TextArea" x="298" y="333" w="1348" h="66" zOrder="10">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="3949D9E9-A544-45F2-8DDD-BCB441A9BAB4" linkType="ltPageLink" isApplyIncludePage="False" title="Roman+Empire">
+          <area shape="0" alt="" ID="{9F4F59A1-5915-4E16-B4B6-E0411198B68B}" coords="(0,0,1348,66)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>4.+Nexo+Token+Enjoys+Short-Lived+Rally+Upon+Binance+Listing%0D%0A</text>
+      <textSize>18</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="46BF241E-53AF-4F48-833D-1ED97CEC7929" controlTypeID="TextArea" x="298" y="371" w="1348" h="66" zOrder="11">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="312FE25A-509D-4480-AFB7-65C41F710D60" linkType="ltPageLink" isApplyIncludePage="False" title="Vietnam+War">
+          <area shape="0" alt="" ID="{285A3F99-01AB-4CE7-AEE6-A0C63BE845AE}" coords="(0,0,1348,66)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>5.+Goldman+Sachs+Makes+Its+First+Bitcoin-Backed+Loan%0D%0A</text>
+      <textSize>18</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A560A924-0955-4F55-8602-D680BA546787" controlTypeID="TextArea" x="298" y="409" w="1353" h="66" zOrder="12">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="7C5F2EE7-736D-410A-9DCA-E66EF37C562C" linkType="ltPageLink" isApplyIncludePage="False" title="American+Civil+War">
+          <area shape="0" alt="" ID="{ECFCE8E8-4261-48FC-8CB4-BBDF8A732BC6}" coords="(0,0,1353,66)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>6.+How+to+Spend+Your+Crypto+Using+Bitrefill%E2%80%99s+Gift+Card+Platform%0D%0A</text>
+      <textSize>18</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="73881F02-BBC6-43FD-AD8B-391431A63EB4" controlTypeID="TextArea" x="298" y="447" w="1348" h="66" zOrder="13">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="FAD1B585-30E2-4B4B-AD93-6C1EFF35203C" linkType="ltPageLink" isApplyIncludePage="False" title="Industrial+Revolution">
+          <area shape="0" alt="" ID="{7CD3BB92-F79C-449A-A747-FC3F170CEE50}" coords="(0,0,1348,66)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>7.+A+Brief+Overview+of+Crypto+Payments+in+5+Charts%0D%0A</text>
+      <textSize>18</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="35704D77-027D-4BCC-AB58-DF43C48BA2BC" controlTypeID="TextArea" x="298" y="485" w="1353" h="66" zOrder="14">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="5C92024A-5312-4579-AEF5-AA516B317194" linkType="ltPageLink" isApplyIncludePage="False" title="Great+Depression">
+          <area shape="0" alt="" ID="{2A8ACD42-C456-4956-8756-D4827DC6E03E}" coords="(0,0,1353,66)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>8.+The+Crypto+Company+Aiding+El+Salvador%E2%80%99s+Bitcoin+Adoption%0D%0A</text>
+      <textSize>18</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="17166117-C583-4362-BEC2-11F5D25DD201" controlTypeID="Image" x="-2" y="144" w="1922" h="56" zOrder="15">
+      <URL>B5444625A8FFA1FB9B0B2DFD0F176A71.png</URL>
+    </control>
+    <control controlID="BFD1C8BF-391D-4D17-8783-9FA5C15A311A" controlTypeID="Image" x="42" y="20" w="152" h="114" zOrder="16">
+      <URL>D648F122E98A4063A6FA99BD6DDE48E2.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>12</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

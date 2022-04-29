@@ -1,0 +1,79 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="C3EE83AE-880E-4F00-8F22-D225F99F1D94" platform="MtDesktop" defaultW="884" defaultH="763" measureW="884" measureH="763" mobileScreenScale="0">
+  <controls controlCount="10">
+    <control controlID="5116C7BD-3258-4DC4-AFCA-3829BD206BAE" controlTypeID="BreadCrumbs" x="10" y="738" w="92" h="16" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>E-history%2CHome</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="8331E70B-3713-4BA4-9199-A5A3F287E42F" controlTypeID="List" x="71" y="206" w="168" h="252" zOrder="1">
+      <verticalScrollbarShow>True</verticalScrollbarShow>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>World+War+I%0D%0AWorld+war+II%0D%0AThe+Cold+War%0D%0ARoman+Empire%0D%0AVietnam+War%0D%0AAmerican+Civil+War%0D%0AIndustrial+Revolution%0D%0AGreat+Depression%0D%0A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B471A94B-DA54-4F6C-B3D7-031115C11981" controlTypeID="MenuBar" x="384" y="52" w="282" h="48" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home%2C+Profile%2C+Courses</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>2</selectedIndex>
+    </control>
+    <control controlID="879116E8-4BFE-479C-98CF-8C77A4E60347" controlTypeID="Image" x="796" y="26" w="66" h="56" zOrder="3">
+      <clipShapeType>SbEllipse</clipShapeType>
+      <URL>B5262111FDCF61006F3AE29A20B31320.jpg</URL>
+    </control>
+    <control controlID="20CD5DC4-B569-400C-B31D-4582C508A95D" controlTypeID="Label" x="802" y="92" w="52" h="16" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Welcome%2C</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7818A12E-30F1-49AE-92A0-343E5B9289C4" controlTypeID="Label" x="804" y="108" w="50" h="16" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>John+Doe</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AE8EA0B3-1945-4AE1-B4F3-6474F5A54931" controlTypeID="TextArea" x="298" y="153" w="429" h="66" zOrder="6">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Why+should+you+study+history%3F</text>
+      <textSize>28</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A37422FF-67F2-4796-B67E-3681B47B4422" controlTypeID="Image" x="79" y="33" w="222" h="67" zOrder="7">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DD15667D-F578-4164-B09A-E4F68C3AE0B0" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{5F2CEE9F-EC50-4C32-B998-520815B9FB0E}" coords="(0,0,222,67)"/>
+        </link>
+      </links>
+      <URL>88224FB92E52A59EEBB3C9477E457B90.png</URL>
+    </control>
+    <control controlID="C7A85F21-0CAD-4388-8485-C8F5C9BA4B15" controlTypeID="TextArea" x="298" y="206" w="429" h="530" zOrder="8">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>To+study+history+is+to+study+change%3A+historians+are+experts+in+examining+and+interpreting+human+identities+and+transformations+of+societies+and+civilizations+over+time.+%0D%0AThey+use+a+range+of+methods+and+analytical+tools+to+answer+questions+about+the+past+and+to+reconstruct+the+diversity+of+past+human+experience%3A+how+profoundly+people+have+differed+in+their+ideas%2C+institutions%2C+and+cultural+practices%3B+how+widely+their+experiences+have+varied+by+time+and+place%2C+and+the+ways+they+have+struggled+while+inhabiting+a+shared+world.+%0D%0AHistorians+use+a+wide+range+of+sources+to+weave+individual+lives+and+collective+actions+into+narratives+that+bring+critical+perspectives+on+both+our+past+and+our+present.+%0D%0AStudying+history+helps+us+understand+and+grapple+with+complex+questions+and+dilemmas+by+examining+how+the+past+has+shaped+(and+continues+to+shape)+global%2C+national%2C+and+local+relationships+between+societies+and+people.</text>
+      <textSize>18</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6AAF82B8-D3B0-4AE9-BB97-A880C32690F8" controlTypeID="Label" x="804" y="134" w="44" h="16" zOrder="9">
+      <color>13382502</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Sign+out</text>
+      <textColor>4278216447</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>12</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

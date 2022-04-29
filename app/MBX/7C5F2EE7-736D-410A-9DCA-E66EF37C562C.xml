@@ -1,0 +1,156 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="7C5F2EE7-736D-410A-9DCA-E66EF37C562C" platform="MtDesktop" defaultW="1920" defaultH="1080" measureW="1920" measureH="1080" mobileScreenScale="0">
+  <controls controlCount="14">
+    <control controlID="F90A2A08-7680-49DF-B995-82A0F6D3353D" controlTypeID="List" x="71" y="206" w="168" h="252" zOrder="0">
+      <verticalScrollbarShow>True</verticalScrollbarShow>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="24611FF3-AD0D-4192-A844-A58F95AA3808" linkType="ltPageLink" isApplyIncludePage="False" title="ApeCoin+Futures+See+$36M+in+Liquidations+After+Volatile+Trading">
+          <area shape="0" alt="" ID="{4DB4179F-AB37-418D-B063-C666801FD12A}" coords="(1,1,167,26)"/>
+        </link>
+        <link targetPageID="05B4D03B-5CDB-489D-96AF-0C62D8E3728E" linkType="ltPageLink" isApplyIncludePage="False" title="Swiss+National+Bank+Owns+No+Bitcoin%2C+but+Could+Buy+in+the+Future%2C+Chairman+Says">
+          <area shape="0" alt="" ID="{C9B9B002-4E05-4542-82A4-C0A92260F5E3}" coords="(1,26,167,51)"/>
+        </link>
+        <link targetPageID="09B867AD-8FC7-44DD-ADD0-B07DA24A9A87" linkType="ltPageLink" isApplyIncludePage="False" title="Cracking+the+Notification+Conundrum+in+Web+3+Apps">
+          <area shape="0" alt="" ID="{BEEF219D-4720-4876-8FD4-689365684BAF}" coords="(1,51,167,76)"/>
+        </link>
+        <link targetPageID="3949D9E9-A544-45F2-8DDD-BCB441A9BAB4" linkType="ltPageLink" isApplyIncludePage="False" title="Nexo+Token+Enjoys+Short-Lived+Rally+Upon+Binance+Listing">
+          <area shape="0" alt="" ID="{1026831E-E910-4692-BE92-3C50CD931924}" coords="(1,76,167,101)"/>
+        </link>
+        <link targetPageID="312FE25A-509D-4480-AFB7-65C41F710D60" linkType="ltPageLink" isApplyIncludePage="False" title="Goldman+Sachs+Makes+Its+First+Bitcoin-Backed+Loan">
+          <area shape="0" alt="" ID="{5015D072-0B6E-4D01-879C-783972853367}" coords="(1,101,167,126)"/>
+        </link>
+        <link targetPageID="7C5F2EE7-736D-410A-9DCA-E66EF37C562C" linkType="ltPageLink" isApplyIncludePage="False" title="How+to+Spend+Your+Crypto+Using+Bitrefill%E2%80%99s+Gift+Card+Platform">
+          <area shape="0" alt="" ID="{31D241D9-F16A-4828-B6A8-A8D878187D3E}" coords="(1,126,167,151)"/>
+        </link>
+        <link targetPageID="FAD1B585-30E2-4B4B-AD93-6C1EFF35203C" linkType="ltPageLink" isApplyIncludePage="False" title="A+Brief+Overview+of+Crypto+Payments+in+5+Charts">
+          <area shape="0" alt="" ID="{B45B9009-CFD6-4A6C-95D3-2D6AEB5BCCAF}" coords="(1,151,167,176)"/>
+        </link>
+        <link targetPageID="5C92024A-5312-4579-AEF5-AA516B317194" linkType="ltPageLink" isApplyIncludePage="False" title="The+Crypto+Company+Aiding+El+Salvador%E2%80%99s+Bitcoin+Adoption">
+          <area shape="0" alt="" ID="{F3E5965D-23EF-48AF-9CFD-1F31F4077158}" coords="(1,176,167,201)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>ApeCoin+Futures+See+$36M+in+Liquidations+After+Volatile+Trading%0D%0ASwiss+National+Bank+Owns+No+Bitcoin%2C+but+Could+Buy+in+the+Future%2C+Chairman+Says%0D%0ACracking+the+Notification+Conundrum+in+Web+3+Apps%0D%0ANexo+Token+Enjoys+Short-Lived+Rally+Upon+Binance+Listing%0D%0AGoldman+Sachs+Makes+Its+First+Bitcoin-Backed+Loan%0D%0AHow+to+Spend+Your+Crypto+Using+Bitrefill%E2%80%99s+Gift+Card+Platform%0D%0AA+Brief+Overview+of+Crypto+Payments+in+5+Charts%0D%0AThe+Crypto+Company+Aiding+El+Salvador%E2%80%99s+Bitcoin+Adoption%0D%0A</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>5</selectedIndex>
+      <selectedColor>4294927872</selectedColor>
+    </control>
+    <control controlID="72CA4398-C31E-4121-A77E-3F7217A73157" controlTypeID="MenuBar" x="384" y="52" w="282" h="48" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DD15667D-F578-4164-B09A-E4F68C3AE0B0" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{C664EFFC-03AD-4CE0-8399-A0DD29FBC158}" coords="(0,0,63,48)"/>
+        </link>
+        <link targetPageID="801497A4-FDC3-43C9-A530-6963AA01E4FB" linkType="ltPageLink" isApplyIncludePage="False" title="+Profile">
+          <area shape="0" alt="" ID="{2592FD68-F7E1-45DC-A118-B906D4C73F67}" coords="(63,0,131,48)"/>
+        </link>
+        <link targetPageID="E607C53E-AE98-4034-8537-E63F332218F9" linkType="ltPageLink" isApplyIncludePage="False" title="+Courses">
+          <area shape="0" alt="" ID="{10F3683A-34F9-41E4-980D-5B4D9020304D}" coords="(131,0,207,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Home%2C+Profile%2C+Courses</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>2</selectedIndex>
+      <selectedColor>4294927872</selectedColor>
+    </control>
+    <control controlID="32CF2095-EF12-4665-9584-37ECB351F861" controlTypeID="TextArea" x="298" y="200" w="429" h="79" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>How+to+Spend+Your+Crypto+Using+Bitrefill%E2%80%99s+Gift+Card+Platform</text>
+      <textSize>28</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F2C721DD-133C-47FF-A75F-4B685885F87D" controlTypeID="Image" x="1839" y="10" w="66" h="56" zOrder="3">
+      <clipShapeType>SbEllipse</clipShapeType>
+      <URL>B5262111FDCF61006F3AE29A20B31320.jpg</URL>
+    </control>
+    <control controlID="00EB2CCE-485C-4533-9E3A-3B74F60ED118" controlTypeID="Label" x="1845" y="76" w="52" h="16" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Welcome%2C</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CA0C2BC8-0B59-4680-A815-B3F905FC8B81" controlTypeID="Label" x="1847" y="92" w="50" h="16" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>John+Doe</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2BD5B275-0968-459D-8DFB-40118EF175C4" controlTypeID="Label" x="1847" y="118" w="44" h="16" zOrder="6">
+      <color>13382502</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D9B50897-D00D-4C59-8AD4-3BC2491D071E" linkType="ltPageLink" isApplyIncludePage="False" title="Login">
+          <area shape="0" alt="" ID="{D168A615-D852-44DD-A179-65EB313756E0}" coords="(0,0,44,16)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Sign+out</text>
+      <textColor>4278216447</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0899E2EC-6A4C-4748-A889-19B906C2C315" controlTypeID="TextArea" x="298" y="279" w="429" h="664" zOrder="7">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>There%E2%80%99s+still+a+long+way+ahead+of+us+until+we+can+pay+directly+with+cryptocurrency+for+everyday+purchases+at+the+grocery+store%2C+in+a+coffee+shop+or+on+our+vacations.%0D%0A%0D%0AFor+crypto+enthusiasts+who+want+to+live+off+their+digital+assets%2C+Bitrefill+is+a+possible+solution.%0D%0A%0D%0ABitrefill+and+its+gift+cards+are+one+of+the+oldest+players+facilitating+crypto+payments.+Founded+in+2015+by+Sergej+Kotliar%2C+Michael+Gr%C3%BCnberger+and+Michel+Gustavsson%2C+the+company%E2%80%99s+goal+is+to+enable+people+to+spend+cryptocurrency+to+buy+everyday+items+online+and+in+stores+as+well.</text>
+      <textSize>18</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="45F49F8E-2191-41F1-9B81-FD92AD5899AD" controlTypeID="VideoPlayer" x="298" y="654" w="429" h="267" zOrder="8"/>
+    <control controlID="613CF855-52CE-41D3-8A50-C371C0F7171A" controlTypeID="Button" x="1697" y="1042" w="208" h="28" zOrder="9">
+      <states>
+        <state propName="Color" stateType="state_mouseOver" isChecked="True" value="4278190080" varType="20"/>
+      </states>
+      <color>4294927872</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="901872BE-ABD1-4E3E-A86A-5B17FBFFAAC4" linkType="ltPageLink" isApplyIncludePage="False" title="Test">
+          <area shape="0" alt="" ID="{2B897855-18A1-455F-BB61-FC9C0028F534}" coords="(0,0,208,28)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Take+the+Test!!</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="6DAD86E7-D52C-424D-B3A6-77F16917E471" controlTypeID="Image" x="-2" y="144" w="1922" h="56" zOrder="10">
+      <URL>B5444625A8FFA1FB9B0B2DFD0F176A71.png</URL>
+    </control>
+    <control controlID="DED86BE0-2497-40FE-BB6A-7FCA58DEF6CA" controlTypeID="Image" x="42" y="20" w="152" h="114" zOrder="11">
+      <URL>D648F122E98A4063A6FA99BD6DDE48E2.png</URL>
+    </control>
+    <control controlID="66760B25-16AC-4078-B5A3-BCDE8F968931" controlTypeID="Image" x="792" y="231" w="1017" h="572" zOrder="12">
+      <URL>4AFD401A665CC42B50A9F95A4F215D4F.png</URL>
+    </control>
+    <control controlID="5FF7D9A5-0B4F-4F4E-AD95-49DE21F716A6" controlTypeID="BreadCrumbs" x="10" y="1054" w="197" h="16" zOrder="13">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DD15667D-F578-4164-B09A-E4F68C3AE0B0" linkType="ltPageLink" isApplyIncludePage="False" title="CryptoUni">
+          <area shape="0" alt="" ID="{880E4E60-B980-4ACF-9E55-F3D54A9F8A54}" coords="(0,0,54,16)"/>
+        </link>
+        <link targetPageID="E607C53E-AE98-4034-8537-E63F332218F9" linkType="ltPageLink" isApplyIncludePage="False" title="Courses">
+          <area shape="0" alt="" ID="{FB3F4EF5-10C1-43D8-87D0-3A3762F01F0F}" coords="(66,0,108,16)"/>
+        </link>
+        <link targetPageID="3949D9E9-A544-45F2-8DDD-BCB441A9BAB4" linkType="ltPageLink" isApplyIncludePage="False" title="How+To+Spend">
+          <area shape="0" alt="" ID="{71E02B17-7523-470A-A588-02B1709E752F}" coords="(120,0,197,16)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>CryptoUni%2CCourses%2CHow+To+Spend</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>12</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
